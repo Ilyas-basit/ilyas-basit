@@ -48,7 +48,7 @@ Designed and built **LocaDrive OS**, a SaaS back office for car rental agencies,
 ## Projects
 
 **A solo-built app with 1,000+ active users worldwide**
-Designed, built and shipped alone, from architecture to distribution. Installable web app, cloud backend, and a growing international user base.
+Designed, built and shipped alone, from architecture to distribution. Play store app, cloud backend, and a growing international user base.
 
 **Social media automation**
 A pipeline that produces and publishes video content without manual work: automated screen recording, generated thumbnails and banners, and authenticated uploads through the platform API.
